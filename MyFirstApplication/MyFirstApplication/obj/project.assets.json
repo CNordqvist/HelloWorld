@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kolle\\OneDrive\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
+      "projectUniqueName": "C:\\Users\\kolle\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
       "projectName": "MyFirstApplication",
-      "projectPath": "C:\\Users\\kolle\\OneDrive\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
+      "projectPath": "C:\\Users\\kolle\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
       "packagesPath": "C:\\Users\\kolle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kolle\\OneDrive\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\obj\\",
+      "outputPath": "C:\\Users\\kolle\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kolle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/discord-net/api/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
