@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kolle\\.nuget\\packages\\": {}
+    "C:\\Users\\kolle\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kolle\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
+      "projectUniqueName": "C:\\Users\\kolle\\source\\repos\\Ny mapp\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
       "projectName": "MyFirstApplication",
-      "projectPath": "C:\\Users\\kolle\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
+      "projectPath": "C:\\Users\\kolle\\source\\repos\\Ny mapp\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.csproj",
       "packagesPath": "C:\\Users\\kolle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kolle\\Documents\\GitHub\\HelloWorld\\MyFirstApplication\\MyFirstApplication\\obj\\",
+      "outputPath": "C:\\Users\\kolle\\source\\repos\\Ny mapp\\MyFirstApplication\\MyFirstApplication\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\kolle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +33,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {

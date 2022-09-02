@@ -13,3 +13,18 @@ C:\Users\kolle\Documents\GitHub\HelloWorld\MyFirstApplication\MyFirstApplication
 C:\Users\kolle\Documents\GitHub\HelloWorld\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.pdb
 C:\Users\kolle\Documents\GitHub\HelloWorld\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.genruntimeconfig.cache
 C:\Users\kolle\Documents\GitHub\HelloWorld\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\ref\MyFirstApplication.dll
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\bin\Debug\net6.0\MyFirstApplication.exe
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\bin\Debug\net6.0\MyFirstApplication.deps.json
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\bin\Debug\net6.0\MyFirstApplication.runtimeconfig.json
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\bin\Debug\net6.0\MyFirstApplication.dll
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\bin\Debug\net6.0\MyFirstApplication.pdb
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.csproj.AssemblyReference.cache
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.AssemblyInfoInputs.cache
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.AssemblyInfo.cs
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.dll
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\refint\MyFirstApplication.dll
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.pdb
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\MyFirstApplication.genruntimeconfig.cache
+C:\Users\kolle\source\repos\Ny mapp\MyFirstApplication\MyFirstApplication\obj\Debug\net6.0\ref\MyFirstApplication.dll

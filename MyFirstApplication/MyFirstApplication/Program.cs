@@ -293,12 +293,14 @@ while (userCorrect == false)
 
 //Övning 9.5
 
+/*
+string userThrow = "";
+int userInt = 0;
+int puterWins = 0;
+int userWins = 0;
+
 while (true)
 {
-    string userThrow = "";
-    int userInt = 0;
-    int puterWins = 0;
-    int userWins = 0;
     
     Console.WriteLine("Sten, Sax eller Påse?");
     try
@@ -341,7 +343,118 @@ while (true)
     }
     else if ((userInt == 1 && puterThrow == 2) || (userInt == 2 && puterThrow == 3) || (userInt == 3 && puterThrow == 1))
     {
-        Console.WriteLine()
+        Console.WriteLine("Du vinner!!");
+        userWins++;
+    } else if ((puterThrow == 1 && userInt == 2) || (puterThrow == 2 && userInt == 3) || (puterThrow == 3 && userInt == 1))
+    {
+        Console.WriteLine("Botten vinner!");
+        puterWins++;
+    }
+    Console.WriteLine(userWins + " - " + puterWins);
+
+}
+*/
+//Övning 10 
+/*
+string userString = "";
+Console.WriteLine("Var god skriv in en menning");
+
+try
+{
+    userString = Console.ReadLine();
+} catch {}
+for (int i = 0; i < userString.Length; i++)
+{
+    Console.WriteLine(userString[i]);
+}
+*/
+
+//Övning 11
+/*
+string[] sifferArr = new string[] { "Noll", "Ett", "Två" + "Tre", "Fyra", "Fem", "Sex", "Sju", "Åtta", "Nio" };
+string userString = "";
+while (true)
+{
+    Console.WriteLine("Var god skriv in en siffra");
+    Console.WriteLine(" ");
+    try
+    {
+        userString = Console.ReadLine();
+    }
+    catch
+    { }
+
+    for (int i = 0; i < userString.Length; i++)
+    {
+        int userNum = (int)char.GetNumericValue(userString[i]);
+
+        {
+            if (userNum > 0 && userNum <= 9)
+            {
+                Console.Write(sifferArr[userNum - 1] + " ");
+            }
+            else if (userNum == 0)
+            {
+                Console.Write(sifferArr[userNum] + " ");
+            }
+            else
+            { console.WriteLine(" ");
+              Console.WriteLine("No readings"); }
+        }
+    }
+} */
+
+
+
+using System;
+//Övning 12
+/*
+Console.WriteLine("Hur många heltal vill du mata in?");
+
+
+    int.TryParse(Console.ReadLine(), out int userAmount);
+string[] saver = new string[userAmount] ;
+    for (int i = 0; i < userAmount; i++)
+    {
+        Console.WriteLine("var god skriv in ett av heltalen");
+        saver[i] = Console.ReadLine();
+    }
+for (int    j = userAmount; j > 0; j--)
+{
+    Console.Write(saver[j-1] + " ");
+}*/
+
+//Övning 13 
+/*
+Console.WriteLine("Var god skriv in en mening");
+
+string userString = Console.ReadLine();
+Char[] userArr = userString.ToCharArray();
+
+for (int i = userArr.Length - 1; i > -1 ; i--)
+{
+    Console.Write(userArr[i]);
+}
+*/
+
+//Övning 14
+/*
+Console.WriteLine("Var god skriv in en mening som ska bli översatt til rövarspråket");
+string userString = Console.ReadLine();
+char[] userCharArr = userString.ToCharArray();
+
+for (int i = 0; i < userCharArr.Length; i++)
+{
+    if (userCharArr[i] == 'b' || userCharArr[i] == 'c' || userCharArr[i] == 'd' || userCharArr[i] == 'f' || userCharArr[i] == 'g' || userCharArr[i] == 'h' || userCharArr[i] == 'j' || userCharArr[i] == 'k' || userCharArr[i] == 'l' || userCharArr[i] == 'm' || userCharArr[i] == 'n' || userCharArr[i] == 'p' || userCharArr[i] == 'q' || userCharArr[i] == 'r' || userCharArr[i] == 's' || userCharArr[i] == 't' || userCharArr[i] == 'v' || userCharArr[i] == 'w' || userCharArr[i] == 'x' || userCharArr[i] == 'z')
+    {
+        Console.Write(userCharArr[i] + "o" + userCharArr[i]);
+    }
+    else
+    {
+        Console.Write(userCharArr[i]);
     }
 }
+*/ 
+//Övning 15
+
 Console.ReadKey();
